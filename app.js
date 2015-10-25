@@ -33,8 +33,8 @@
 		flanger = new Pizzicato.Effects.Flanger();
 		sineWave.addEffect(delay);
 		triangleWave.addEffect(flanger);
-		triangleWave.volume = 0.25;
-		sineWave.volume = 0.35;
+		triangleWave.volume = 0.2;
+		sineWave.volume = 0.3;
 	};
 
 
