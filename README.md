@@ -1,5 +1,5 @@
 #Web audio demo
-This demo was created for a presentation at the [Paris.JS meetup](http://parisjs.org/).
+This demo was created for a presentation at the [Paris.JS meetup](http://parisjs.org/). A working version can be found [here](http://alemangui.github.io/web-audio-demo/).
 
 ## Leap motion device
 
