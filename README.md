@@ -1,4 +1,4 @@
-#Web audio demo
+# Web audio demo
 
 This demo was created for a presentation at the [Paris.JS](http://parisjs.org/) and [Code Algorithm Processing Dream Paris](http://www.meetup.com/Code-Algorithm-Processing-Dream-Paris/) meetups. A working version can be found [here](http://alemangui.github.io/web-audio-demo/).
 
